@@ -12,14 +12,13 @@ I deliver measurable improvements:
 - 🧠 End-to-end S&OP cycles (demand review → executive S&OP)  
 - 📊 Power BI dashboards used by managers, supply teams and finance  
 
-I combine **business expertise** with **technical tools**:  
-Python • Power BI • SQL • SAP S/4HANA • Sage X3 • Predictive models • Optimization
+I combine **business expertise** with **technical tools**:  Python • Power BI • SQL • SAP S/4HANA • Sage X3 • Predictive models • Optimization
 
 ---
 
 # 🌐 Portfolio Website
 👉 **Live website:** https://carlos25-afq.github.io/roberto-portfolio/  
-(Full CV FR/EN + projects + achievements)
+   (Full CV FR/EN + projects + achievements)
 
 ---
 
